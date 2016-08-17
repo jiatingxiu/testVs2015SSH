@@ -23,6 +23,7 @@ namespace testVs2015SSH
         public MainWindow()
         {
             InitializeComponent();
+
         }
     }
 }
